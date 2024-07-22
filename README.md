@@ -8,11 +8,8 @@
 <h2>How to use</h2>
 
 1. Download the <b>src</b> directory.
-2. Download Eclipse IDE for Java
-3. Create a new project, and "plop" the folders inside
-4. Run the code with the green button
-5. Play Tetris!
-
+2. Run using Eclipse or a similiar IDE, like JetBrains.
+  
 <h2>Features:</h2>
 
 - Use of custom <b>Java Packages</b>.
